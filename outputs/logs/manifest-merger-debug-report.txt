@@ -1,0 +1,1024 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:2:1-59:12
+MERGED from [security-algorithm-1.0.0-beta.aar] /Users/fire/.gradle/caches/8.9/transforms/7828d1561cc4f79c6b27c1e8c6a651ea/transformed/security-algorithm-1.0.0-beta/AndroidManifest.xml:2:1-9:12
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:2:1-53:12
+MERGED from [com.thingclips.smart:sweeper:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e322027a71959047bfcbe3b96df01547/transformed/sweeper-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-ipcsdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/08c6ba5d49d200320cdae108edce4114/transformed/thingsmart-ipcsdk-7.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/fire/.gradle/caches/8.9/transforms/c0848515487ab466a846fd16b39eb943/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/fire/.gradle/caches/8.9/transforms/17fb050ad753579e99b8cb4060606f0b/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/fire/.gradle/caches/8.9/transforms/000b12e1cd3da8c91910adedaf5ee0ea/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/fire/.gradle/caches/8.9/transforms/8962ab824f4e284e44e8764e061d7bf0/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/fire/.gradle/caches/8.9/transforms/1dcf25d2900b6adb3e50e0bce0af7ce3/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /Users/fire/.gradle/caches/8.9/transforms/0afe4754d42b2ae278d6b47ff23fa64f/transformed/recyclerview-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.thingclips.smart:sweeper-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/9d35a83cc90304e3ad65e33a9d8a2e5b/transformed/sweeper-api-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-sweeper-p2p:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/54b9599217e26ffb1ba131f2e93e35a0/transformed/thingsmart-sweeper-p2p-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-cloudstorage-signature-tools:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6d6978b9366a7f63db0e248d963fe70a/transformed/thingsmart-cloudstorage-signature-tools-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-p2p-file-trans-sdk:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/039f08158efcdb4885f88880827df4b9/transformed/thingsmart-p2p-file-trans-sdk-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-sweeper:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/640c272d47be62195f2a1131ebac406d/transformed/thingsmart-sweeper-7.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.thingclips.smart:thingsmart-p2p-sdk-api:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/8570c556bfd26d2f434c1e43d94907e6/transformed/thingsmart-p2p-sdk-api-7.8.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-p2p-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/f87398acce38424a4d65d316e8612db8/transformed/thingsmart-p2p-sdk-7.8.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.thingclips.smart:thingsmart-avlogger-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/3c445edcd67bfd3e30b903bb213c4938/transformed/thingsmart-avlogger-sdk-7.8.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-file-transfer-session:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/478b57d57298e09fb26bcf5054fc3c51/transformed/thingsmart-file-transfer-session-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-openssl-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/b36680040aa2b7ea3c23be695f10b3de/transformed/thingsmart-openssl-sdk-7.8.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:optimus:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/afc65fb3fc35ba6f4d6626bd632a9d1e/transformed/optimus-7.8.1/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/544c47b3820b89795cd4d7a865517f28/transformed/fresco-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-imagepipeline-okhttp3:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/9beae8a97f53caa7841edd69c4c818bc/transformed/thingsmart-imagepipeline-okhttp3-7.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-audio-engine-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/c2893d0645a8dc0b4ca2ecb121767507/transformed/thingsmart-audio-engine-sdk-7.8.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-callmodule:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/67ecda311e0a26502018d15decb64905/transformed/thingsmart-callmodule-7.8.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.thingclips.smart:thingsmart-camera-api:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/8356332e8ed69ca33ad5e96c5dfae7d8/transformed/thingsmart-camera-api-7.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e6c28b8b443601d22f6ce11fe4300cdc/transformed/thingsmart-camera-sdk-7.8.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.thingclips.smart:thingsmart-ffmpeg-wrapper:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/0c4b24e0873bfa4cf80419fa1d6af44f/transformed/thingsmart-ffmpeg-wrapper-7.8.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-inference-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/343a659ef592b5d396fe3fe0e3627c37/transformed/thingsmart-inference-sdk-7.8.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-ipc-camera-base:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/5335a9b9ced318269f1db8ba5d5d9ec1/transformed/thingsmart-ipc-camera-base-7.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-ipc-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e427dcff77afa9fc746f31158511131d/transformed/thingsmart-ipc-camera-sdk-7.8.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.thingclips.smart:thingsmart-ipc-camera-sdk-api:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/22b916e1a578b110f06bd4a15a49b0c5/transformed/thingsmart-ipc-camera-sdk-api-7.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-ipc-yuv-monitor:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/9aaa32d48f592cad256d8b66357766ee/transformed/thingsmart-ipc-yuv-monitor-7.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-mediaplayer-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/9c1ab40e15822717af0cffcc70d0fbe1/transformed/thingsmart-mediaplayer-sdk-7.8.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-motion-detect-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/02bcc104ef7a36213988b7fc22bd0b0f/transformed/thingsmart-motion-detect-sdk-7.8.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-mp3-codec-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/7fbb7d3c6d78f06c0845a1b0298088e2/transformed/thingsmart-mp3-codec-sdk-7.8.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-onappai-logger-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/4746b632d299e5ef43b7c6f2dec3731a/transformed/thingsmart-onappai-logger-sdk-7.8.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-opus-utils:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/c6a45b94c26596f54d8948b0c81c97c9/transformed/thingsmart-opus-utils-7.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-video-codec-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/49644bd0065164c08b2a52849658723c/transformed/thingsmart-video-codec-sdk-7.8.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-device-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bd3f319a2071dea407f2c5d5884b7aee/transformed/thingsmart-device-core-7.8.0/AndroidManifest.xml:2:1-16:12
+MERGED from [com.thingclips.smart:thingsmart-network:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7e5fa535e73be12b5df23839932e0a7f/transformed/thingsmart-network-7.8.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-cronet:18.1.0] /Users/fire/.gradle/caches/8.9/transforms/bda82e36d486fb99a5f5aeb1d90a306e/transformed/play-services-cronet-18.1.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/fire/.gradle/caches/8.9/transforms/d053bcf5d34f7e0a41ff7e117796612a/transformed/play-services-base-18.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/fire/.gradle/caches/8.9/transforms/52a7628cd4e2db07bb7c7676f60be16c/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/fire/.gradle/caches/8.9/transforms/f840c169ebc1e9eae0362019462f92d3/transformed/play-services-basement-18.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/fire/.gradle/caches/8.9/transforms/6434d3bbc092d492223ac5884c6a1410/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/fire/.gradle/caches/8.9/transforms/6d9bedbc6d8811b315cceb072a0a00ca/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/a4379f6f5b7ec76a95e9fe949c73170e/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/fire/.gradle/caches/8.9/transforms/060844938ea46612ac9c934db21c10fa/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.thingclips.smart:thingsmart-asynclib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/71b32355a696b73eb0b014b83a40fcef/transformed/thingsmart-asynclib-7.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/76233411436671fb173bf98543b3546b/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/5341960a3687f048db829c511753ab7f/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/fire/.gradle/caches/8.9/transforms/5113b68fd44e21dc3dd904caf76175ab/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/63df085dc06fb752994afcf73b0bc450/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/57a1a4117d3c60973ed5a72aa1299af2/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/1751a3aa1c7aa72c1bf5538fa784d838/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/d26d87043a2b06150b7f81a1de563720/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/978a92c3f43bd84419fe73d2d7f1157a/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/078280fdbfab8dd2fb47e8f470ef4b98/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/3d1b9785ab3b6724b7cd248a584143b6/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/47795aa373c49dadd1b91fdad65ecbc1/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/01f00b06bb40bb6c372ff465fde55162/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/238a83344288306c63006fa957108d73/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/fire/.gradle/caches/8.9/transforms/4cbc9bc954058107b9c5864a7720a20a/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/fire/.gradle/caches/8.9/transforms/80715c70288ae2878d389c501880b1de/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/fire/.gradle/caches/8.9/transforms/eda5be6db4748695f4540fa49e5d12e6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/fire/.gradle/caches/8.9/transforms/b55a0da7c8fc82ba2665c69ecc0547aa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:soloader:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/9f3e497e0bb60f4b26e34bbccf89edaf/transformed/soloader-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:drawee:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/43007b94611519a34ab7309790a08a4f/transformed/drawee-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/c600aaccef96e671b3108e25bab9eb78/transformed/nativeimagefilters-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/bd7e51763c277e127126e087cc85ba29/transformed/memory-type-native-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/f06f59c2c6de57828c0aae8974931e36/transformed/memory-type-java-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/aa748f79158eb87b509908b90107c59c/transformed/imagepipeline-native-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/e5dd15ae41dccb9dde3290e06ec40cdc/transformed/memory-type-ashmem-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/46cf5766940bfae45bcd8d6bdb1749df/transformed/imagepipeline-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/b671bf53397b291e0c13e58aec5bd99e/transformed/nativeimagetranscoder-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/2b2353a4a9b39a1e9036623126351d7a/transformed/imagepipeline-base-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:middleware:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/8c5f47ab1b7d43858c0942515097285e/transformed/middleware-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:ui-common:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/022f549f2d38ec74484c840f83f2ca29/transformed/ui-common-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fbcore:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/3606e2c21c3660441643f88acce062c6/transformed/fbcore-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/075b83d46bcd179c0a5c14e0af51ac9b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/fire/.gradle/caches/8.9/transforms/8701745385b4b34ea754050e8a1e1d1b/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/2f993cf0a934cff2ef9fd7c3fdc19dc2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/29147ef3efd9539495f9dee0c7b9c1c1/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/0711f60185fe9e3659dbdfe5b8903f57/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fire/.gradle/caches/8.9/transforms/6568d04748c5022f0e73833052649838/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fire/.gradle/caches/8.9/transforms/7e07915533fb0f1821152d75a1ca8b4e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/e795dd3ec48fab19720e9a7104396852/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.thingclips.smart:thingsmart-mqtt:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/134c146b5d4dd0f2b2b0d267e1873d74/transformed/thingsmart-mqtt-7.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/9f6897e621809121f77875c817f23377/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/fire/.gradle/caches/8.9/transforms/04407c84523551db354cf89b30e61973/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/972d67c36777b56d8d23c5dbc9389e89/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/2c9b14512acb5107c5c070b430f36690/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/fire/.gradle/caches/8.9/transforms/7da28d75363b4b89f55058f4abccdfc2/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-base-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/175caca0757526bd739087d30f2fad79/transformed/thingsmart-base-api-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:2:1-29:12
+MERGED from [com.thingclips.smart:thingsmart-bluetooth-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/9db60baf8028d2f135625d910f2761d0/transformed/thingsmart-bluetooth-api-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-bluetooth-business-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/73e7e17e6162850f3bc4c9b4b4b7db20/transformed/thingsmart-bluetooth-business-api-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-cache:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/aee5e7ad5d95944d5b88508b3ca3a184/transformed/thingsmart-cache-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-cache-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/36ac588f53b4f0d2609436fb0f7d4089/transformed/thingsmart-cache-api-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-cache-business:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/fe147992afcc7e8a3a91cd90447bec65/transformed/thingsmart-cache-business-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-cache-business-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/82f077177f108c63fad3f990e4d09d65/transformed/thingsmart-cache-business-api-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-device-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/898cfea56702971d3b89a459ee5113da/transformed/thingsmart-device-api-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.thingclips.smart:thingsmart-matterlib-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/982bcbb86c7f977e8e134560d8ece385/transformed/thingsmart-matterlib-api-7.8.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.thingclips.smart:thingsmart-mqtt-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/eb0ce1bde849deef87ed02a84504e5a1/transformed/thingsmart-mqtt-api-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:2:1-20:12
+MERGED from [com.thingclips.smart:thingsmart-device-share-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/669f9490faf5d03d6d6c50c60df17fd9/transformed/thingsmart-device-share-api-7.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.thingclips.smart:thingsmart-device-sharelib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/4a92a89b8286fd90e1b8fca68022b469/transformed/thingsmart-device-sharelib-7.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.thingclips.smart:thingsmart-dp-parser:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/2950f798653cce90dc77aa5f9e1e16f7/transformed/thingsmart-dp-parser-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-geofence:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/d7a7a31858d70117a035f02977690b4a/transformed/thingsmart-geofence-7.8.0/AndroidManifest.xml:2:1-16:12
+MERGED from [com.thingclips.smart:thingsmart-geofence-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/30a6b7a0e84ec55da0ff9307d68e23b5/transformed/thingsmart-geofence-api-7.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.thingclips.smart:thingsmart-homelib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/1318cfdf068899d94fe9c6947d09fda2/transformed/thingsmart-homelib-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-homelib-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/44d85969ccd490439a44476f79f4be33/transformed/thingsmart-homelib-api-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-personal-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/ef5d79d18ed32d3bf86968833ae72996/transformed/thingsmart-personal-api-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-personallib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/56f1423489ac8e571704d9ad355a07eb/transformed/thingsmart-personallib-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-scene-compat:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/1d2cd1fd801180e45cd90aa41b840011/transformed/thingsmart-scene-compat-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-scene-compat-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/4123c6490c610690886624efe63a8745/transformed/thingsmart-scene-compat-api-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-scene-core-new:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/ea006a6f9c1a44d89033161da603b1c5/transformed/thingsmart-scene-core-new-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-scene-execute:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/4facaef30ae0945a5945336aa3f1ab83/transformed/thingsmart-scene-execute-7.8.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.thingclips.smart:thingsmart-scene-lib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6e1e4e58248993dbf8f98caefa923c46/transformed/thingsmart-scene-lib-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-scene-lib-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/3c180c9e3d44b1186e857b07b0e92b16/transformed/thingsmart-scene-lib-api-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-scene-model:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/3b9ebe3713163655d7d5e3ab9bfdd65d/transformed/thingsmart-scene-model-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-scene-model-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/ddae7b1591c90421f122082cd683d092/transformed/thingsmart-scene-model-core-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-sweeper-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/193973ea6358c8388e0d665bd24d4bdb/transformed/thingsmart-sweeper-api-7.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.thingclips.smart:thingsmart-user:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/85dd34c15fbf43b9ba8d0553bff48f31/transformed/thingsmart-user-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-user-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/237ca60548db3601938191dc9070bc8c/transformed/thingsmart-user-api-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-user-base-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/9bd7d733513f09b27a8add5e0d610af5/transformed/thingsmart-user-base-api-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-region-url-full:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6cf72734d61a823c98dbc51d06bc8ab6/transformed/thingsmart-region-url-full-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart.android:network_sdk_android:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/eaedfc397aba3faadda498bc20aaf50c/transformed/network_sdk_android-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-ai-stream-lib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/c40d9080999fe34fc3374a3ece4d05a8/transformed/thingsmart-ai-stream-lib-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:thingsmart-baselib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5870c869888a1cc98c8c10f9c9b5f5a7/transformed/thingsmart-baselib-7.8.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.thingclips.smart:thingsmart-dp-parser-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bca7565b8d1b584efe38659b27c1665b/transformed/thingsmart-dp-parser-api-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:2:1-34:12
+MERGED from [com.thingclips.smart:thingsmart-hardware-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/8e3b1f4bb14c2665d3ff7e497482954a/transformed/thingsmart-hardware-api-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-hardware-business-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/aab41cfab064d01c4894f1b66af8d27a/transformed/thingsmart-hardware-business-api-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-log:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/f0bd5653bd14134877004f8d8b0f759e/transformed/thingsmart-log-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.thingclips.smart:thingsmart-sdk-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/3d422cc892bc7ff1506b1dd8b3ebfa0f/transformed/thingsmart-sdk-api-7.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.thingclips.smart:mmkv:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/00c6c0fb8b6d4acae40ccf4391bc36c4/transformed/mmkv-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/fire/.gradle/caches/8.9/transforms/42ade0a69b7dcfb57666c875070140ce/transformed/soloader-0.10.5/AndroidManifest.xml:2:1-17:12
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /Users/fire/.gradle/caches/8.9/transforms/445646bf1bad62032964636edebd71f0/transformed/cronet-api-72.3626.96/AndroidManifest.xml:15:1-22:12
+	package
+		INJECTED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:7:5-67
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:7:5-67
+MERGED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:9:5-67
+MERGED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:9:5-67
+MERGED from [com.thingclips.smart:thingsmart-device-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bd3f319a2071dea407f2c5d5884b7aee/transformed/thingsmart-device-core-7.8.0/AndroidManifest.xml:7:5-67
+MERGED from [com.thingclips.smart:thingsmart-device-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bd3f319a2071dea407f2c5d5884b7aee/transformed/thingsmart-device-core-7.8.0/AndroidManifest.xml:7:5-67
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:12:5-67
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:12:5-67
+MERGED from [com.thingclips.smart:thingsmart-scene-execute:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/4facaef30ae0945a5945336aa3f1ab83/transformed/thingsmart-scene-execute-7.8.0/AndroidManifest.xml:11:5-67
+MERGED from [com.thingclips.smart:thingsmart-scene-execute:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/4facaef30ae0945a5945336aa3f1ab83/transformed/thingsmart-scene-execute-7.8.0/AndroidManifest.xml:11:5-67
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /Users/fire/.gradle/caches/8.9/transforms/445646bf1bad62032964636edebd71f0/transformed/cronet-api-72.3626.96/AndroidManifest.xml:19:5-66
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /Users/fire/.gradle/caches/8.9/transforms/445646bf1bad62032964636edebd71f0/transformed/cronet-api-72.3626.96/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:8:5-79
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:8:5-79
+MERGED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:11:5-79
+MERGED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:11:5-79
+MERGED from [com.thingclips.smart:thingsmart-p2p-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/f87398acce38424a4d65d316e8612db8/transformed/thingsmart-p2p-sdk-7.8.1/AndroidManifest.xml:9:5-11:36
+MERGED from [com.thingclips.smart:thingsmart-p2p-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/f87398acce38424a4d65d316e8612db8/transformed/thingsmart-p2p-sdk-7.8.1/AndroidManifest.xml:9:5-11:36
+MERGED from [com.thingclips.smart:thingsmart-device-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bd3f319a2071dea407f2c5d5884b7aee/transformed/thingsmart-device-core-7.8.0/AndroidManifest.xml:9:5-79
+MERGED from [com.thingclips.smart:thingsmart-device-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bd3f319a2071dea407f2c5d5884b7aee/transformed/thingsmart-device-core-7.8.0/AndroidManifest.xml:9:5-79
+MERGED from [com.thingclips.smart:thingsmart-network:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7e5fa535e73be12b5df23839932e0a7f/transformed/thingsmart-network-7.8.0/AndroidManifest.xml:10:5-79
+MERGED from [com.thingclips.smart:thingsmart-network:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7e5fa535e73be12b5df23839932e0a7f/transformed/thingsmart-network-7.8.0/AndroidManifest.xml:10:5-79
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:7:5-79
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:7:5-79
+MERGED from [com.thingclips.smart:thingsmart-scene-execute:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/4facaef30ae0945a5945336aa3f1ab83/transformed/thingsmart-scene-execute-7.8.0/AndroidManifest.xml:9:5-79
+MERGED from [com.thingclips.smart:thingsmart-scene-execute:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/4facaef30ae0945a5945336aa3f1ab83/transformed/thingsmart-scene-execute-7.8.0/AndroidManifest.xml:9:5-79
+MERGED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:11:5-79
+MERGED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:11:5-79
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /Users/fire/.gradle/caches/8.9/transforms/445646bf1bad62032964636edebd71f0/transformed/cronet-api-72.3626.96/AndroidManifest.xml:20:5-78
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /Users/fire/.gradle/caches/8.9/transforms/445646bf1bad62032964636edebd71f0/transformed/cronet-api-72.3626.96/AndroidManifest.xml:20:5-78
+	android:required
+		ADDED from [com.thingclips.smart:thingsmart-p2p-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/f87398acce38424a4d65d316e8612db8/transformed/thingsmart-p2p-sdk-7.8.1/AndroidManifest.xml:11:9-33
+	android:name
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:7:5-76
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:9:5-76
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:9:5-76
+MERGED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:12:5-76
+MERGED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:12:5-76
+MERGED from [com.thingclips.smart:thingsmart-device-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bd3f319a2071dea407f2c5d5884b7aee/transformed/thingsmart-device-core-7.8.0/AndroidManifest.xml:10:5-76
+MERGED from [com.thingclips.smart:thingsmart-device-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bd3f319a2071dea407f2c5d5884b7aee/transformed/thingsmart-device-core-7.8.0/AndroidManifest.xml:10:5-76
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:8:5-76
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:8:5-76
+MERGED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:12:5-76
+MERGED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:8:5-76
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:10:5-76
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:10:5-76
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:9:5-76
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:11:5-79
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:10:5-81
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:12:5-81
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:10:22-78
+application
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:12:5-57:19
+INJECTED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:12:5-57:19
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:14:5-51:19
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:14:5-51:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/fire/.gradle/caches/8.9/transforms/c0848515487ab466a846fd16b39eb943/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/fire/.gradle/caches/8.9/transforms/c0848515487ab466a846fd16b39eb943/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/fire/.gradle/caches/8.9/transforms/17fb050ad753579e99b8cb4060606f0b/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/fire/.gradle/caches/8.9/transforms/17fb050ad753579e99b8cb4060606f0b/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.thingclips.smart:optimus:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/afc65fb3fc35ba6f4d6626bd632a9d1e/transformed/optimus-7.8.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.thingclips.smart:optimus:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/afc65fb3fc35ba6f4d6626bd632a9d1e/transformed/optimus-7.8.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.thingclips.smart:thingsmart-callmodule:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/67ecda311e0a26502018d15decb64905/transformed/thingsmart-callmodule-7.8.1/AndroidManifest.xml:9:5-20
+MERGED from [com.thingclips.smart:thingsmart-callmodule:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/67ecda311e0a26502018d15decb64905/transformed/thingsmart-callmodule-7.8.1/AndroidManifest.xml:9:5-20
+MERGED from [com.thingclips.smart:thingsmart-inference-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/343a659ef592b5d396fe3fe0e3627c37/transformed/thingsmart-inference-sdk-7.8.1/AndroidManifest.xml:7:5-20
+MERGED from [com.thingclips.smart:thingsmart-inference-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/343a659ef592b5d396fe3fe0e3627c37/transformed/thingsmart-inference-sdk-7.8.1/AndroidManifest.xml:7:5-20
+MERGED from [com.thingclips.smart:thingsmart-ipc-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e427dcff77afa9fc746f31158511131d/transformed/thingsmart-ipc-camera-sdk-7.8.1/AndroidManifest.xml:9:5-20
+MERGED from [com.thingclips.smart:thingsmart-ipc-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e427dcff77afa9fc746f31158511131d/transformed/thingsmart-ipc-camera-sdk-7.8.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-cronet:18.1.0] /Users/fire/.gradle/caches/8.9/transforms/bda82e36d486fb99a5f5aeb1d90a306e/transformed/play-services-cronet-18.1.0/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-cronet:18.1.0] /Users/fire/.gradle/caches/8.9/transforms/bda82e36d486fb99a5f5aeb1d90a306e/transformed/play-services-cronet-18.1.0/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/fire/.gradle/caches/8.9/transforms/d053bcf5d34f7e0a41ff7e117796612a/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/fire/.gradle/caches/8.9/transforms/d053bcf5d34f7e0a41ff7e117796612a/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/fire/.gradle/caches/8.9/transforms/52a7628cd4e2db07bb7c7676f60be16c/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/fire/.gradle/caches/8.9/transforms/52a7628cd4e2db07bb7c7676f60be16c/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/fire/.gradle/caches/8.9/transforms/f840c169ebc1e9eae0362019462f92d3/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/fire/.gradle/caches/8.9/transforms/f840c169ebc1e9eae0362019462f92d3/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/5341960a3687f048db829c511753ab7f/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/5341960a3687f048db829c511753ab7f/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/078280fdbfab8dd2fb47e8f470ef4b98/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/078280fdbfab8dd2fb47e8f470ef4b98/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fire/.gradle/caches/8.9/transforms/6568d04748c5022f0e73833052649838/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fire/.gradle/caches/8.9/transforms/6568d04748c5022f0e73833052649838/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fire/.gradle/caches/8.9/transforms/7e07915533fb0f1821152d75a1ca8b4e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fire/.gradle/caches/8.9/transforms/7e07915533fb0f1821152d75a1ca8b4e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.thingclips.smart:thingsmart-mqtt:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/134c146b5d4dd0f2b2b0d267e1873d74/transformed/thingsmart-mqtt-7.8.0/AndroidManifest.xml:7:5-9:19
+MERGED from [com.thingclips.smart:thingsmart-mqtt:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/134c146b5d4dd0f2b2b0d267e1873d74/transformed/thingsmart-mqtt-7.8.0/AndroidManifest.xml:7:5-9:19
+MERGED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:17:5-27:19
+MERGED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:17:5-27:19
+MERGED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.thingclips.smart:thingsmart-geofence:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/d7a7a31858d70117a035f02977690b4a/transformed/thingsmart-geofence-7.8.0/AndroidManifest.xml:13:5-14:19
+MERGED from [com.thingclips.smart:thingsmart-geofence:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/d7a7a31858d70117a035f02977690b4a/transformed/thingsmart-geofence-7.8.0/AndroidManifest.xml:13:5-14:19
+MERGED from [com.thingclips.smart:thingsmart-baselib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5870c869888a1cc98c8c10f9c9b5f5a7/transformed/thingsmart-baselib-7.8.0/AndroidManifest.xml:7:5-16:19
+MERGED from [com.thingclips.smart:thingsmart-baselib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5870c869888a1cc98c8c10f9c9b5f5a7/transformed/thingsmart-baselib-7.8.0/AndroidManifest.xml:7:5-16:19
+MERGED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:14:5-32:19
+MERGED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:14:5-32:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/fire/.gradle/caches/8.9/transforms/42ade0a69b7dcfb57666c875070140ce/transformed/soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/fire/.gradle/caches/8.9/transforms/42ade0a69b7dcfb57666c875070140ce/transformed/soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+	android:extractNativeLibs
+		INJECTED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml
+	android:roundIcon
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:17:9-43
+	android:networkSecurityConfig
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:19:9-69
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:18:9-41
+	android:fullBackupContent
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:16:9-54
+	tools:targetApi
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:25:9-29
+	android:allowBackup
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:22:9-49
+	android:dataExtractionRules
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:15:9-65
+	tools:replace
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:24:9-109
+	android:usesCleartextTraffic
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:23:9-45
+	android:name
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:13:9-70
+meta-data#THING_SMART_APPKEY
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:27:9-29:52
+	android:value
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:28:13-46
+meta-data#THING_SMART_SECRET
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:30:9-32:64
+	android:value
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:32:13-61
+	android:name
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:31:13-46
+activity#com.ipc.demo.base.LoginActivity
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:34:9-43:20
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:15:9-18:52
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:15:9-18:52
+	android:screenOrientation
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:37:13-49
+	android:exported
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:36:13-36
+		REJECTED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:17:13-37
+	tools:replace
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:35:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:41:27-74
+activity#com.example.sweeperdemo.ui.SweeperPanelActivity
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:45:9-48:52
+	android:screenOrientation
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:48:13-49
+	android:exported
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:46:13-75
+activity#com.example.sweeperdemo.ui.SweeperP2pMapActivity
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:49:9-52:52
+	android:screenOrientation
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:52:13-49
+	android:exported
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:50:13-76
+activity#com.example.sweeperdemo.ui.SweeperLaserMapActivity
+ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:53:9-56:52
+	android:screenOrientation
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:56:13-49
+	android:exported
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml:54:13-78
+uses-sdk
+INJECTED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml
+MERGED from [security-algorithm-1.0.0-beta.aar] /Users/fire/.gradle/caches/8.9/transforms/7828d1561cc4f79c6b27c1e8c6a651ea/transformed/security-algorithm-1.0.0-beta/AndroidManifest.xml:5:5-7:41
+MERGED from [security-algorithm-1.0.0-beta.aar] /Users/fire/.gradle/caches/8.9/transforms/7828d1561cc4f79c6b27c1e8c6a651ea/transformed/security-algorithm-1.0.0-beta/AndroidManifest.xml:5:5-7:41
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:sweeper:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e322027a71959047bfcbe3b96df01547/transformed/sweeper-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:sweeper:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e322027a71959047bfcbe3b96df01547/transformed/sweeper-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-ipcsdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/08c6ba5d49d200320cdae108edce4114/transformed/thingsmart-ipcsdk-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-ipcsdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/08c6ba5d49d200320cdae108edce4114/transformed/thingsmart-ipcsdk-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/fire/.gradle/caches/8.9/transforms/c0848515487ab466a846fd16b39eb943/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/fire/.gradle/caches/8.9/transforms/c0848515487ab466a846fd16b39eb943/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/fire/.gradle/caches/8.9/transforms/17fb050ad753579e99b8cb4060606f0b/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/fire/.gradle/caches/8.9/transforms/17fb050ad753579e99b8cb4060606f0b/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/fire/.gradle/caches/8.9/transforms/000b12e1cd3da8c91910adedaf5ee0ea/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/fire/.gradle/caches/8.9/transforms/000b12e1cd3da8c91910adedaf5ee0ea/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/fire/.gradle/caches/8.9/transforms/8962ab824f4e284e44e8764e061d7bf0/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/fire/.gradle/caches/8.9/transforms/8962ab824f4e284e44e8764e061d7bf0/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/fire/.gradle/caches/8.9/transforms/1dcf25d2900b6adb3e50e0bce0af7ce3/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/fire/.gradle/caches/8.9/transforms/1dcf25d2900b6adb3e50e0bce0af7ce3/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /Users/fire/.gradle/caches/8.9/transforms/0afe4754d42b2ae278d6b47ff23fa64f/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /Users/fire/.gradle/caches/8.9/transforms/0afe4754d42b2ae278d6b47ff23fa64f/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:sweeper-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/9d35a83cc90304e3ad65e33a9d8a2e5b/transformed/sweeper-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:sweeper-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/9d35a83cc90304e3ad65e33a9d8a2e5b/transformed/sweeper-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-sweeper-p2p:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/54b9599217e26ffb1ba131f2e93e35a0/transformed/thingsmart-sweeper-p2p-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-sweeper-p2p:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/54b9599217e26ffb1ba131f2e93e35a0/transformed/thingsmart-sweeper-p2p-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-cloudstorage-signature-tools:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6d6978b9366a7f63db0e248d963fe70a/transformed/thingsmart-cloudstorage-signature-tools-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-cloudstorage-signature-tools:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6d6978b9366a7f63db0e248d963fe70a/transformed/thingsmart-cloudstorage-signature-tools-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-p2p-file-trans-sdk:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/039f08158efcdb4885f88880827df4b9/transformed/thingsmart-p2p-file-trans-sdk-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-p2p-file-trans-sdk:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/039f08158efcdb4885f88880827df4b9/transformed/thingsmart-p2p-file-trans-sdk-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-sweeper:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/640c272d47be62195f2a1131ebac406d/transformed/thingsmart-sweeper-7.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.thingclips.smart:thingsmart-sweeper:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/640c272d47be62195f2a1131ebac406d/transformed/thingsmart-sweeper-7.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.thingclips.smart:thingsmart-p2p-sdk-api:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/8570c556bfd26d2f434c1e43d94907e6/transformed/thingsmart-p2p-sdk-api-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-p2p-sdk-api:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/8570c556bfd26d2f434c1e43d94907e6/transformed/thingsmart-p2p-sdk-api-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-p2p-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/f87398acce38424a4d65d316e8612db8/transformed/thingsmart-p2p-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-p2p-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/f87398acce38424a4d65d316e8612db8/transformed/thingsmart-p2p-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-avlogger-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/3c445edcd67bfd3e30b903bb213c4938/transformed/thingsmart-avlogger-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-avlogger-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/3c445edcd67bfd3e30b903bb213c4938/transformed/thingsmart-avlogger-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-file-transfer-session:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/478b57d57298e09fb26bcf5054fc3c51/transformed/thingsmart-file-transfer-session-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-file-transfer-session:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/478b57d57298e09fb26bcf5054fc3c51/transformed/thingsmart-file-transfer-session-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-openssl-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/b36680040aa2b7ea3c23be695f10b3de/transformed/thingsmart-openssl-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-openssl-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/b36680040aa2b7ea3c23be695f10b3de/transformed/thingsmart-openssl-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:optimus:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/afc65fb3fc35ba6f4d6626bd632a9d1e/transformed/optimus-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:optimus:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/afc65fb3fc35ba6f4d6626bd632a9d1e/transformed/optimus-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/544c47b3820b89795cd4d7a865517f28/transformed/fresco-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/544c47b3820b89795cd4d7a865517f28/transformed/fresco-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-imagepipeline-okhttp3:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/9beae8a97f53caa7841edd69c4c818bc/transformed/thingsmart-imagepipeline-okhttp3-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-imagepipeline-okhttp3:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/9beae8a97f53caa7841edd69c4c818bc/transformed/thingsmart-imagepipeline-okhttp3-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-audio-engine-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/c2893d0645a8dc0b4ca2ecb121767507/transformed/thingsmart-audio-engine-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-audio-engine-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/c2893d0645a8dc0b4ca2ecb121767507/transformed/thingsmart-audio-engine-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-callmodule:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/67ecda311e0a26502018d15decb64905/transformed/thingsmart-callmodule-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-callmodule:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/67ecda311e0a26502018d15decb64905/transformed/thingsmart-callmodule-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-camera-api:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/8356332e8ed69ca33ad5e96c5dfae7d8/transformed/thingsmart-camera-api-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-camera-api:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/8356332e8ed69ca33ad5e96c5dfae7d8/transformed/thingsmart-camera-api-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e6c28b8b443601d22f6ce11fe4300cdc/transformed/thingsmart-camera-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e6c28b8b443601d22f6ce11fe4300cdc/transformed/thingsmart-camera-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-ffmpeg-wrapper:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/0c4b24e0873bfa4cf80419fa1d6af44f/transformed/thingsmart-ffmpeg-wrapper-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-ffmpeg-wrapper:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/0c4b24e0873bfa4cf80419fa1d6af44f/transformed/thingsmart-ffmpeg-wrapper-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-inference-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/343a659ef592b5d396fe3fe0e3627c37/transformed/thingsmart-inference-sdk-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-inference-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/343a659ef592b5d396fe3fe0e3627c37/transformed/thingsmart-inference-sdk-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-ipc-camera-base:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/5335a9b9ced318269f1db8ba5d5d9ec1/transformed/thingsmart-ipc-camera-base-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-ipc-camera-base:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/5335a9b9ced318269f1db8ba5d5d9ec1/transformed/thingsmart-ipc-camera-base-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-ipc-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e427dcff77afa9fc746f31158511131d/transformed/thingsmart-ipc-camera-sdk-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-ipc-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e427dcff77afa9fc746f31158511131d/transformed/thingsmart-ipc-camera-sdk-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-ipc-camera-sdk-api:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/22b916e1a578b110f06bd4a15a49b0c5/transformed/thingsmart-ipc-camera-sdk-api-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-ipc-camera-sdk-api:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/22b916e1a578b110f06bd4a15a49b0c5/transformed/thingsmart-ipc-camera-sdk-api-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-ipc-yuv-monitor:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/9aaa32d48f592cad256d8b66357766ee/transformed/thingsmart-ipc-yuv-monitor-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-ipc-yuv-monitor:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/9aaa32d48f592cad256d8b66357766ee/transformed/thingsmart-ipc-yuv-monitor-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-mediaplayer-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/9c1ab40e15822717af0cffcc70d0fbe1/transformed/thingsmart-mediaplayer-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-mediaplayer-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/9c1ab40e15822717af0cffcc70d0fbe1/transformed/thingsmart-mediaplayer-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-motion-detect-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/02bcc104ef7a36213988b7fc22bd0b0f/transformed/thingsmart-motion-detect-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-motion-detect-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/02bcc104ef7a36213988b7fc22bd0b0f/transformed/thingsmart-motion-detect-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-mp3-codec-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/7fbb7d3c6d78f06c0845a1b0298088e2/transformed/thingsmart-mp3-codec-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-mp3-codec-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/7fbb7d3c6d78f06c0845a1b0298088e2/transformed/thingsmart-mp3-codec-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-onappai-logger-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/4746b632d299e5ef43b7c6f2dec3731a/transformed/thingsmart-onappai-logger-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-onappai-logger-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/4746b632d299e5ef43b7c6f2dec3731a/transformed/thingsmart-onappai-logger-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-opus-utils:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/c6a45b94c26596f54d8948b0c81c97c9/transformed/thingsmart-opus-utils-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-opus-utils:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/c6a45b94c26596f54d8948b0c81c97c9/transformed/thingsmart-opus-utils-7.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-video-codec-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/49644bd0065164c08b2a52849658723c/transformed/thingsmart-video-codec-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-video-codec-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/49644bd0065164c08b2a52849658723c/transformed/thingsmart-video-codec-sdk-7.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-device-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bd3f319a2071dea407f2c5d5884b7aee/transformed/thingsmart-device-core-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-device-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bd3f319a2071dea407f2c5d5884b7aee/transformed/thingsmart-device-core-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-network:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7e5fa535e73be12b5df23839932e0a7f/transformed/thingsmart-network-7.8.0/AndroidManifest.xml:6:5-8:78
+MERGED from [com.thingclips.smart:thingsmart-network:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7e5fa535e73be12b5df23839932e0a7f/transformed/thingsmart-network-7.8.0/AndroidManifest.xml:6:5-8:78
+MERGED from [com.google.android.gms:play-services-cronet:18.1.0] /Users/fire/.gradle/caches/8.9/transforms/bda82e36d486fb99a5f5aeb1d90a306e/transformed/play-services-cronet-18.1.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-cronet:18.1.0] /Users/fire/.gradle/caches/8.9/transforms/bda82e36d486fb99a5f5aeb1d90a306e/transformed/play-services-cronet-18.1.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/fire/.gradle/caches/8.9/transforms/d053bcf5d34f7e0a41ff7e117796612a/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/fire/.gradle/caches/8.9/transforms/d053bcf5d34f7e0a41ff7e117796612a/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/fire/.gradle/caches/8.9/transforms/52a7628cd4e2db07bb7c7676f60be16c/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/fire/.gradle/caches/8.9/transforms/52a7628cd4e2db07bb7c7676f60be16c/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/fire/.gradle/caches/8.9/transforms/f840c169ebc1e9eae0362019462f92d3/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/fire/.gradle/caches/8.9/transforms/f840c169ebc1e9eae0362019462f92d3/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/fire/.gradle/caches/8.9/transforms/6434d3bbc092d492223ac5884c6a1410/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/fire/.gradle/caches/8.9/transforms/6434d3bbc092d492223ac5884c6a1410/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /Users/fire/.gradle/caches/8.9/transforms/6d9bedbc6d8811b315cceb072a0a00ca/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/fire/.gradle/caches/8.9/transforms/6d9bedbc6d8811b315cceb072a0a00ca/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/a4379f6f5b7ec76a95e9fe949c73170e/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/a4379f6f5b7ec76a95e9fe949c73170e/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/fire/.gradle/caches/8.9/transforms/060844938ea46612ac9c934db21c10fa/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/fire/.gradle/caches/8.9/transforms/060844938ea46612ac9c934db21c10fa/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.thingclips.smart:thingsmart-asynclib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/71b32355a696b73eb0b014b83a40fcef/transformed/thingsmart-asynclib-7.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.thingclips.smart:thingsmart-asynclib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/71b32355a696b73eb0b014b83a40fcef/transformed/thingsmart-asynclib-7.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/76233411436671fb173bf98543b3546b/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/76233411436671fb173bf98543b3546b/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/5341960a3687f048db829c511753ab7f/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/5341960a3687f048db829c511753ab7f/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/fire/.gradle/caches/8.9/transforms/5113b68fd44e21dc3dd904caf76175ab/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/fire/.gradle/caches/8.9/transforms/5113b68fd44e21dc3dd904caf76175ab/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/63df085dc06fb752994afcf73b0bc450/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/63df085dc06fb752994afcf73b0bc450/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/57a1a4117d3c60973ed5a72aa1299af2/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/57a1a4117d3c60973ed5a72aa1299af2/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/1751a3aa1c7aa72c1bf5538fa784d838/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/1751a3aa1c7aa72c1bf5538fa784d838/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/d26d87043a2b06150b7f81a1de563720/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/d26d87043a2b06150b7f81a1de563720/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/978a92c3f43bd84419fe73d2d7f1157a/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/978a92c3f43bd84419fe73d2d7f1157a/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/078280fdbfab8dd2fb47e8f470ef4b98/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/078280fdbfab8dd2fb47e8f470ef4b98/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/3d1b9785ab3b6724b7cd248a584143b6/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/3d1b9785ab3b6724b7cd248a584143b6/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/47795aa373c49dadd1b91fdad65ecbc1/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/47795aa373c49dadd1b91fdad65ecbc1/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/01f00b06bb40bb6c372ff465fde55162/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/01f00b06bb40bb6c372ff465fde55162/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/238a83344288306c63006fa957108d73/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/238a83344288306c63006fa957108d73/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/fire/.gradle/caches/8.9/transforms/4cbc9bc954058107b9c5864a7720a20a/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/fire/.gradle/caches/8.9/transforms/4cbc9bc954058107b9c5864a7720a20a/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/fire/.gradle/caches/8.9/transforms/80715c70288ae2878d389c501880b1de/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/fire/.gradle/caches/8.9/transforms/80715c70288ae2878d389c501880b1de/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/fire/.gradle/caches/8.9/transforms/eda5be6db4748695f4540fa49e5d12e6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/fire/.gradle/caches/8.9/transforms/eda5be6db4748695f4540fa49e5d12e6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/fire/.gradle/caches/8.9/transforms/b55a0da7c8fc82ba2665c69ecc0547aa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/fire/.gradle/caches/8.9/transforms/b55a0da7c8fc82ba2665c69ecc0547aa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:soloader:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/9f3e497e0bb60f4b26e34bbccf89edaf/transformed/soloader-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/9f3e497e0bb60f4b26e34bbccf89edaf/transformed/soloader-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/43007b94611519a34ab7309790a08a4f/transformed/drawee-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/43007b94611519a34ab7309790a08a4f/transformed/drawee-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/c600aaccef96e671b3108e25bab9eb78/transformed/nativeimagefilters-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/c600aaccef96e671b3108e25bab9eb78/transformed/nativeimagefilters-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/bd7e51763c277e127126e087cc85ba29/transformed/memory-type-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/bd7e51763c277e127126e087cc85ba29/transformed/memory-type-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/f06f59c2c6de57828c0aae8974931e36/transformed/memory-type-java-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/f06f59c2c6de57828c0aae8974931e36/transformed/memory-type-java-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/aa748f79158eb87b509908b90107c59c/transformed/imagepipeline-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/aa748f79158eb87b509908b90107c59c/transformed/imagepipeline-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/e5dd15ae41dccb9dde3290e06ec40cdc/transformed/memory-type-ashmem-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/e5dd15ae41dccb9dde3290e06ec40cdc/transformed/memory-type-ashmem-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/46cf5766940bfae45bcd8d6bdb1749df/transformed/imagepipeline-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/46cf5766940bfae45bcd8d6bdb1749df/transformed/imagepipeline-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/b671bf53397b291e0c13e58aec5bd99e/transformed/nativeimagetranscoder-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/b671bf53397b291e0c13e58aec5bd99e/transformed/nativeimagetranscoder-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/2b2353a4a9b39a1e9036623126351d7a/transformed/imagepipeline-base-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/2b2353a4a9b39a1e9036623126351d7a/transformed/imagepipeline-base-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/8c5f47ab1b7d43858c0942515097285e/transformed/middleware-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/8c5f47ab1b7d43858c0942515097285e/transformed/middleware-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/022f549f2d38ec74484c840f83f2ca29/transformed/ui-common-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/022f549f2d38ec74484c840f83f2ca29/transformed/ui-common-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/3606e2c21c3660441643f88acce062c6/transformed/fbcore-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.1.3] /Users/fire/.gradle/caches/8.9/transforms/3606e2c21c3660441643f88acce062c6/transformed/fbcore-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/075b83d46bcd179c0a5c14e0af51ac9b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/075b83d46bcd179c0a5c14e0af51ac9b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/fire/.gradle/caches/8.9/transforms/8701745385b4b34ea754050e8a1e1d1b/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/fire/.gradle/caches/8.9/transforms/8701745385b4b34ea754050e8a1e1d1b/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/2f993cf0a934cff2ef9fd7c3fdc19dc2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/2f993cf0a934cff2ef9fd7c3fdc19dc2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/29147ef3efd9539495f9dee0c7b9c1c1/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/29147ef3efd9539495f9dee0c7b9c1c1/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/0711f60185fe9e3659dbdfe5b8903f57/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/0711f60185fe9e3659dbdfe5b8903f57/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fire/.gradle/caches/8.9/transforms/6568d04748c5022f0e73833052649838/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fire/.gradle/caches/8.9/transforms/6568d04748c5022f0e73833052649838/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fire/.gradle/caches/8.9/transforms/7e07915533fb0f1821152d75a1ca8b4e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fire/.gradle/caches/8.9/transforms/7e07915533fb0f1821152d75a1ca8b4e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/e795dd3ec48fab19720e9a7104396852/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/e795dd3ec48fab19720e9a7104396852/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.thingclips.smart:thingsmart-mqtt:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/134c146b5d4dd0f2b2b0d267e1873d74/transformed/thingsmart-mqtt-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-mqtt:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/134c146b5d4dd0f2b2b0d267e1873d74/transformed/thingsmart-mqtt-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/9f6897e621809121f77875c817f23377/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/9f6897e621809121f77875c817f23377/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/fire/.gradle/caches/8.9/transforms/04407c84523551db354cf89b30e61973/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/fire/.gradle/caches/8.9/transforms/04407c84523551db354cf89b30e61973/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/972d67c36777b56d8d23c5dbc9389e89/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/972d67c36777b56d8d23c5dbc9389e89/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/2c9b14512acb5107c5c070b430f36690/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/2c9b14512acb5107c5c070b430f36690/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/fire/.gradle/caches/8.9/transforms/7da28d75363b4b89f55058f4abccdfc2/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/fire/.gradle/caches/8.9/transforms/7da28d75363b4b89f55058f4abccdfc2/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-base-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/175caca0757526bd739087d30f2fad79/transformed/thingsmart-base-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-base-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/175caca0757526bd739087d30f2fad79/transformed/thingsmart-base-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:6:5-8:61
+MERGED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:6:5-8:61
+MERGED from [com.thingclips.smart:thingsmart-bluetooth-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/9db60baf8028d2f135625d910f2761d0/transformed/thingsmart-bluetooth-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-bluetooth-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/9db60baf8028d2f135625d910f2761d0/transformed/thingsmart-bluetooth-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-bluetooth-business-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/73e7e17e6162850f3bc4c9b4b4b7db20/transformed/thingsmart-bluetooth-business-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-bluetooth-business-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/73e7e17e6162850f3bc4c9b4b4b7db20/transformed/thingsmart-bluetooth-business-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-cache:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/aee5e7ad5d95944d5b88508b3ca3a184/transformed/thingsmart-cache-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-cache:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/aee5e7ad5d95944d5b88508b3ca3a184/transformed/thingsmart-cache-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-cache-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/36ac588f53b4f0d2609436fb0f7d4089/transformed/thingsmart-cache-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-cache-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/36ac588f53b4f0d2609436fb0f7d4089/transformed/thingsmart-cache-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-cache-business:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/fe147992afcc7e8a3a91cd90447bec65/transformed/thingsmart-cache-business-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-cache-business:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/fe147992afcc7e8a3a91cd90447bec65/transformed/thingsmart-cache-business-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-cache-business-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/82f077177f108c63fad3f990e4d09d65/transformed/thingsmart-cache-business-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-cache-business-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/82f077177f108c63fad3f990e4d09d65/transformed/thingsmart-cache-business-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-device-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/898cfea56702971d3b89a459ee5113da/transformed/thingsmart-device-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-device-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/898cfea56702971d3b89a459ee5113da/transformed/thingsmart-device-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-matterlib-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/982bcbb86c7f977e8e134560d8ece385/transformed/thingsmart-matterlib-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-matterlib-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/982bcbb86c7f977e8e134560d8ece385/transformed/thingsmart-matterlib-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-mqtt-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/eb0ce1bde849deef87ed02a84504e5a1/transformed/thingsmart-mqtt-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-mqtt-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/eb0ce1bde849deef87ed02a84504e5a1/transformed/thingsmart-mqtt-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-device-share-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/669f9490faf5d03d6d6c50c60df17fd9/transformed/thingsmart-device-share-api-7.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.thingclips.smart:thingsmart-device-share-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/669f9490faf5d03d6d6c50c60df17fd9/transformed/thingsmart-device-share-api-7.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.thingclips.smart:thingsmart-device-sharelib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/4a92a89b8286fd90e1b8fca68022b469/transformed/thingsmart-device-sharelib-7.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.thingclips.smart:thingsmart-device-sharelib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/4a92a89b8286fd90e1b8fca68022b469/transformed/thingsmart-device-sharelib-7.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.thingclips.smart:thingsmart-dp-parser:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/2950f798653cce90dc77aa5f9e1e16f7/transformed/thingsmart-dp-parser-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-dp-parser:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/2950f798653cce90dc77aa5f9e1e16f7/transformed/thingsmart-dp-parser-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-geofence:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/d7a7a31858d70117a035f02977690b4a/transformed/thingsmart-geofence-7.8.0/AndroidManifest.xml:8:5-11:63
+MERGED from [com.thingclips.smart:thingsmart-geofence:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/d7a7a31858d70117a035f02977690b4a/transformed/thingsmart-geofence-7.8.0/AndroidManifest.xml:8:5-11:63
+MERGED from [com.thingclips.smart:thingsmart-geofence-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/30a6b7a0e84ec55da0ff9307d68e23b5/transformed/thingsmart-geofence-api-7.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.thingclips.smart:thingsmart-geofence-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/30a6b7a0e84ec55da0ff9307d68e23b5/transformed/thingsmart-geofence-api-7.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.thingclips.smart:thingsmart-homelib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/1318cfdf068899d94fe9c6947d09fda2/transformed/thingsmart-homelib-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-homelib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/1318cfdf068899d94fe9c6947d09fda2/transformed/thingsmart-homelib-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-homelib-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/44d85969ccd490439a44476f79f4be33/transformed/thingsmart-homelib-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-homelib-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/44d85969ccd490439a44476f79f4be33/transformed/thingsmart-homelib-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-personal-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/ef5d79d18ed32d3bf86968833ae72996/transformed/thingsmart-personal-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-personal-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/ef5d79d18ed32d3bf86968833ae72996/transformed/thingsmart-personal-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-personallib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/56f1423489ac8e571704d9ad355a07eb/transformed/thingsmart-personallib-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-personallib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/56f1423489ac8e571704d9ad355a07eb/transformed/thingsmart-personallib-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-scene-compat:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/1d2cd1fd801180e45cd90aa41b840011/transformed/thingsmart-scene-compat-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-scene-compat:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/1d2cd1fd801180e45cd90aa41b840011/transformed/thingsmart-scene-compat-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-scene-compat-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/4123c6490c610690886624efe63a8745/transformed/thingsmart-scene-compat-api-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-scene-compat-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/4123c6490c610690886624efe63a8745/transformed/thingsmart-scene-compat-api-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-scene-core-new:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/ea006a6f9c1a44d89033161da603b1c5/transformed/thingsmart-scene-core-new-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-scene-core-new:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/ea006a6f9c1a44d89033161da603b1c5/transformed/thingsmart-scene-core-new-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-scene-execute:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/4facaef30ae0945a5945336aa3f1ab83/transformed/thingsmart-scene-execute-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-scene-execute:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/4facaef30ae0945a5945336aa3f1ab83/transformed/thingsmart-scene-execute-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-scene-lib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6e1e4e58248993dbf8f98caefa923c46/transformed/thingsmart-scene-lib-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-scene-lib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6e1e4e58248993dbf8f98caefa923c46/transformed/thingsmart-scene-lib-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-scene-lib-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/3c180c9e3d44b1186e857b07b0e92b16/transformed/thingsmart-scene-lib-api-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-scene-lib-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/3c180c9e3d44b1186e857b07b0e92b16/transformed/thingsmart-scene-lib-api-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-scene-model:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/3b9ebe3713163655d7d5e3ab9bfdd65d/transformed/thingsmart-scene-model-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-scene-model:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/3b9ebe3713163655d7d5e3ab9bfdd65d/transformed/thingsmart-scene-model-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-scene-model-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/ddae7b1591c90421f122082cd683d092/transformed/thingsmart-scene-model-core-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-scene-model-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/ddae7b1591c90421f122082cd683d092/transformed/thingsmart-scene-model-core-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-sweeper-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/193973ea6358c8388e0d665bd24d4bdb/transformed/thingsmart-sweeper-api-7.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.thingclips.smart:thingsmart-sweeper-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/193973ea6358c8388e0d665bd24d4bdb/transformed/thingsmart-sweeper-api-7.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.thingclips.smart:thingsmart-user:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/85dd34c15fbf43b9ba8d0553bff48f31/transformed/thingsmart-user-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-user:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/85dd34c15fbf43b9ba8d0553bff48f31/transformed/thingsmart-user-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-user-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/237ca60548db3601938191dc9070bc8c/transformed/thingsmart-user-api-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-user-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/237ca60548db3601938191dc9070bc8c/transformed/thingsmart-user-api-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-user-base-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/9bd7d733513f09b27a8add5e0d610af5/transformed/thingsmart-user-base-api-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-user-base-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/9bd7d733513f09b27a8add5e0d610af5/transformed/thingsmart-user-base-api-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-region-url-full:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6cf72734d61a823c98dbc51d06bc8ab6/transformed/thingsmart-region-url-full-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-region-url-full:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6cf72734d61a823c98dbc51d06bc8ab6/transformed/thingsmart-region-url-full-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart.android:network_sdk_android:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/eaedfc397aba3faadda498bc20aaf50c/transformed/network_sdk_android-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart.android:network_sdk_android:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/eaedfc397aba3faadda498bc20aaf50c/transformed/network_sdk_android-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-ai-stream-lib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/c40d9080999fe34fc3374a3ece4d05a8/transformed/thingsmart-ai-stream-lib-7.8.0/AndroidManifest.xml:6:5-44
+MERGED from [com.thingclips.smart:thingsmart-ai-stream-lib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/c40d9080999fe34fc3374a3ece4d05a8/transformed/thingsmart-ai-stream-lib-7.8.0/AndroidManifest.xml:6:5-44
+MERGED from [com.thingclips.smart:thingsmart-baselib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5870c869888a1cc98c8c10f9c9b5f5a7/transformed/thingsmart-baselib-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-baselib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5870c869888a1cc98c8c10f9c9b5f5a7/transformed/thingsmart-baselib-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-dp-parser-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bca7565b8d1b584efe38659b27c1665b/transformed/thingsmart-dp-parser-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-dp-parser-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bca7565b8d1b584efe38659b27c1665b/transformed/thingsmart-dp-parser-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:6:5-8:61
+MERGED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:6:5-8:61
+MERGED from [com.thingclips.smart:thingsmart-hardware-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/8e3b1f4bb14c2665d3ff7e497482954a/transformed/thingsmart-hardware-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-hardware-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/8e3b1f4bb14c2665d3ff7e497482954a/transformed/thingsmart-hardware-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-hardware-business-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/aab41cfab064d01c4894f1b66af8d27a/transformed/thingsmart-hardware-business-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-hardware-business-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/aab41cfab064d01c4894f1b66af8d27a/transformed/thingsmart-hardware-business-api-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-log:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/f0bd5653bd14134877004f8d8b0f759e/transformed/thingsmart-log-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-log:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/f0bd5653bd14134877004f8d8b0f759e/transformed/thingsmart-log-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:thingsmart-sdk-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/3d422cc892bc7ff1506b1dd8b3ebfa0f/transformed/thingsmart-sdk-api-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:thingsmart-sdk-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/3d422cc892bc7ff1506b1dd8b3ebfa0f/transformed/thingsmart-sdk-api-7.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.thingclips.smart:mmkv:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/00c6c0fb8b6d4acae40ccf4391bc36c4/transformed/mmkv-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.thingclips.smart:mmkv:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/00c6c0fb8b6d4acae40ccf4391bc36c4/transformed/mmkv-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/fire/.gradle/caches/8.9/transforms/42ade0a69b7dcfb57666c875070140ce/transformed/soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/fire/.gradle/caches/8.9/transforms/42ade0a69b7dcfb57666c875070140ce/transformed/soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /Users/fire/.gradle/caches/8.9/transforms/445646bf1bad62032964636edebd71f0/transformed/cronet-api-72.3626.96/AndroidManifest.xml:18:5-74
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /Users/fire/.gradle/caches/8.9/transforms/445646bf1bad62032964636edebd71f0/transformed/cronet-api-72.3626.96/AndroidManifest.xml:18:5-74
+	tools:overrideLibrary
+		ADDED from [com.thingclips.smart:thingsmart-network:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7e5fa535e73be12b5df23839932e0a7f/transformed/thingsmart-network-7.8.0/AndroidManifest.xml:8:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fire/AndroidStudioProjects/SweeperDemo/app/src/main/AndroidManifest.xml
+activity#com.ipc.demo.base.RegisterActivity
+ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:19:9-22:52
+	android:screenOrientation
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:22:13-49
+	android:exported
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:20:13-62
+activity#com.ipc.demo.base.MainActivity
+ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:23:9-26:52
+	android:screenOrientation
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:26:13-49
+	android:exported
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:24:13-58
+activity#com.ipc.demo.base.CreateHomeActivity
+ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:27:9-30:52
+	android:screenOrientation
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:30:13-49
+	android:exported
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:28:13-64
+activity#com.ipc.demo.base.DeviceConfigEzActivity
+ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:31:9-34:52
+	android:screenOrientation
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:34:13-49
+	android:exported
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:32:13-68
+activity#com.ipc.demo.base.DeviceConfigApActivity
+ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:35:9-38:52
+	android:screenOrientation
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:38:13-49
+	android:exported
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:36:13-68
+activity#com.ipc.demo.base.DeviceConfigQrActivity
+ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:39:9-42:52
+	android:screenOrientation
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:42:13-49
+	android:exported
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:40:13-68
+activity#com.ipc.demo.base.HomeListActivity
+ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:43:9-46:52
+	android:screenOrientation
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:46:13-49
+	android:exported
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:44:13-62
+activity#com.ipc.demo.base.DeviceListActivity
+ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:47:9-50:52
+	android:screenOrientation
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:50:13-49
+	android:exported
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from [com.ipc.demo:base:1.0.0] /Users/fire/.gradle/caches/8.9/transforms/5b650f4ee042ded02206b73701521ab9/transformed/base-1.0.0/AndroidManifest.xml:48:13-64
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:10:5-79
+MERGED from [com.thingclips.smart:thingsmart-device-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bd3f319a2071dea407f2c5d5884b7aee/transformed/thingsmart-device-core-7.8.0/AndroidManifest.xml:8:5-79
+MERGED from [com.thingclips.smart:thingsmart-device-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bd3f319a2071dea407f2c5d5884b7aee/transformed/thingsmart-device-core-7.8.0/AndroidManifest.xml:8:5-79
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:13:5-79
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:13:5-77
+MERGED from [com.thingclips.smart:thingsmart-device-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bd3f319a2071dea407f2c5d5884b7aee/transformed/thingsmart-device-core-7.8.0/AndroidManifest.xml:11:5-77
+MERGED from [com.thingclips.smart:thingsmart-device-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bd3f319a2071dea407f2c5d5884b7aee/transformed/thingsmart-device-core-7.8.0/AndroidManifest.xml:11:5-77
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:14:5-77
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:14:5-77
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:13:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:14:5-16:36
+MERGED from [com.thingclips.smart:thingsmart-device-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bd3f319a2071dea407f2c5d5884b7aee/transformed/thingsmart-device-core-7.8.0/AndroidManifest.xml:12:5-14:36
+MERGED from [com.thingclips.smart:thingsmart-device-core:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/bd3f319a2071dea407f2c5d5884b7aee/transformed/thingsmart-device-core-7.8.0/AndroidManifest.xml:12:5-14:36
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:16:5-18:36
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5aa0d0b4d7acb988610563a92792d943/transformed/thingsmart-7.8.0/AndroidManifest.xml:15:9-52
+provider#com.thingclips.smart.optimus.sdk.ThingOptimusProvider
+ADDED from [com.thingclips.smart:optimus:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/afc65fb3fc35ba6f4d6626bd632a9d1e/transformed/optimus-7.8.1/AndroidManifest.xml:8:9-12:40
+	android:enabled
+		ADDED from [com.thingclips.smart:optimus:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/afc65fb3fc35ba6f4d6626bd632a9d1e/transformed/optimus-7.8.1/AndroidManifest.xml:11:13-35
+	android:authorities
+		ADDED from [com.thingclips.smart:optimus:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/afc65fb3fc35ba6f4d6626bd632a9d1e/transformed/optimus-7.8.1/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.thingclips.smart:optimus:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/afc65fb3fc35ba6f4d6626bd632a9d1e/transformed/optimus-7.8.1/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.thingclips.smart:optimus:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/afc65fb3fc35ba6f4d6626bd632a9d1e/transformed/optimus-7.8.1/AndroidManifest.xml:9:13-81
+uses-permission#android.permission.CAMERA
+ADDED from [com.thingclips.smart:thingsmart-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e6c28b8b443601d22f6ce11fe4300cdc/transformed/thingsmart-camera-sdk-7.8.1/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e6c28b8b443601d22f6ce11fe4300cdc/transformed/thingsmart-camera-sdk-7.8.1/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [com.thingclips.smart:thingsmart-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e6c28b8b443601d22f6ce11fe4300cdc/transformed/thingsmart-camera-sdk-7.8.1/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e6c28b8b443601d22f6ce11fe4300cdc/transformed/thingsmart-camera-sdk-7.8.1/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from [com.thingclips.smart:thingsmart-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e6c28b8b443601d22f6ce11fe4300cdc/transformed/thingsmart-camera-sdk-7.8.1/AndroidManifest.xml:11:5-66
+MERGED from [com.thingclips.smart:thingsmart-ipc-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e427dcff77afa9fc746f31158511131d/transformed/thingsmart-ipc-camera-sdk-7.8.1/AndroidManifest.xml:7:5-66
+MERGED from [com.thingclips.smart:thingsmart-ipc-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e427dcff77afa9fc746f31158511131d/transformed/thingsmart-ipc-camera-sdk-7.8.1/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-camera-sdk:7.8.1] /Users/fire/.gradle/caches/8.9/transforms/e6c28b8b443601d22f6ce11fe4300cdc/transformed/thingsmart-camera-sdk-7.8.1/AndroidManifest.xml:11:22-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.thingclips.smart:thingsmart-network:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7e5fa535e73be12b5df23839932e0a7f/transformed/thingsmart-network-7.8.0/AndroidManifest.xml:11:5-68
+MERGED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:10:5-68
+MERGED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:10:5-68
+MERGED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:7:5-68
+MERGED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:7:5-68
+MERGED from [com.thingclips.smart:thingsmart-matterlib-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/982bcbb86c7f977e8e134560d8ece385/transformed/thingsmart-matterlib-api-7.8.0/AndroidManifest.xml:7:5-68
+MERGED from [com.thingclips.smart:thingsmart-matterlib-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/982bcbb86c7f977e8e134560d8ece385/transformed/thingsmart-matterlib-api-7.8.0/AndroidManifest.xml:7:5-68
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:10:5-68
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:10:5-68
+MERGED from [com.thingclips.smart:thingsmart-scene-execute:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/4facaef30ae0945a5945336aa3f1ab83/transformed/thingsmart-scene-execute-7.8.0/AndroidManifest.xml:10:5-68
+MERGED from [com.thingclips.smart:thingsmart-scene-execute:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/4facaef30ae0945a5945336aa3f1ab83/transformed/thingsmart-scene-execute-7.8.0/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-network:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7e5fa535e73be12b5df23839932e0a7f/transformed/thingsmart-network-7.8.0/AndroidManifest.xml:11:22-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/fire/.gradle/caches/8.9/transforms/d053bcf5d34f7e0a41ff7e117796612a/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/fire/.gradle/caches/8.9/transforms/d053bcf5d34f7e0a41ff7e117796612a/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/fire/.gradle/caches/8.9/transforms/d053bcf5d34f7e0a41ff7e117796612a/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/fire/.gradle/caches/8.9/transforms/d053bcf5d34f7e0a41ff7e117796612a/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/fire/.gradle/caches/8.9/transforms/f840c169ebc1e9eae0362019462f92d3/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/fire/.gradle/caches/8.9/transforms/f840c169ebc1e9eae0362019462f92d3/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/fire/.gradle/caches/8.9/transforms/f840c169ebc1e9eae0362019462f92d3/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/5341960a3687f048db829c511753ab7f/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/078280fdbfab8dd2fb47e8f470ef4b98/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/078280fdbfab8dd2fb47e8f470ef4b98/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fire/.gradle/caches/8.9/transforms/7e07915533fb0f1821152d75a1ca8b4e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fire/.gradle/caches/8.9/transforms/7e07915533fb0f1821152d75a1ca8b4e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/5341960a3687f048db829c511753ab7f/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/5341960a3687f048db829c511753ab7f/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/5341960a3687f048db829c511753ab7f/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/5341960a3687f048db829c511753ab7f/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/5341960a3687f048db829c511753ab7f/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/5341960a3687f048db829c511753ab7f/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/fire/.gradle/caches/8.9/transforms/5341960a3687f048db829c511753ab7f/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/078280fdbfab8dd2fb47e8f470ef4b98/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/078280fdbfab8dd2fb47e8f470ef4b98/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/fire/.gradle/caches/8.9/transforms/078280fdbfab8dd2fb47e8f470ef4b98/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.sweeper.demo.set.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.sweeper.demo.set.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/fire/.gradle/caches/8.9/transforms/4ff17c04044dc6ae4969d464905fa485/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/fire/.gradle/caches/8.9/transforms/993b0774841bafb54d1f751ea933d334/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+service#com.thingclips.smart.mqtt.MqttService
+ADDED from [com.thingclips.smart:thingsmart-mqtt:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/134c146b5d4dd0f2b2b0d267e1873d74/transformed/thingsmart-mqtt-7.8.0/AndroidManifest.xml:8:9-73
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-mqtt:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/134c146b5d4dd0f2b2b0d267e1873d74/transformed/thingsmart-mqtt-7.8.0/AndroidManifest.xml:8:18-70
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:11:5-74
+MERGED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:8:5-74
+MERGED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:8:5-74
+MERGED from [com.thingclips.smart:thingsmart-matterlib-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/982bcbb86c7f977e8e134560d8ece385/transformed/thingsmart-matterlib-api-7.8.0/AndroidManifest.xml:8:5-74
+MERGED from [com.thingclips.smart:thingsmart-matterlib-api:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/982bcbb86c7f977e8e134560d8ece385/transformed/thingsmart-matterlib-api-7.8.0/AndroidManifest.xml:8:5-74
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:11:5-74
+MERGED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:11:22-71
+uses-feature#android.hardware.bluetooth_le
+ADDED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:14:9-53
+service#com.thingclips.sdk.blelib.BluetoothService
+ADDED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:18:9-78
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:18:18-75
+receiver#com.thingclips.smart.ble.bs.beacon.BeaconScanFilterReceiver
+ADDED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:20:9-26:20
+	android:exported
+		ADDED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:21:13-87
+intent-filter#action:name:ACTION_SCAN_FILTER_RECEIVE
+ADDED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:23:13-25:29
+action#ACTION_SCAN_FILTER_RECEIVE
+ADDED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-bluetooth:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/7a2eaf472b4ad60f9963bcd6f29a3501/transformed/thingsmart-bluetooth-7.8.0/AndroidManifest.xml:24:25-66
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:10:22-70
+service#com.thingclips.sdk.matter.discover.nsd.NsdResolveService
+ADDED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:13:9-23:19
+	android:process
+		ADDED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:16:13-44
+	android:exported
+		ADDED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:15:13-37
+	android:stopWithTask
+		ADDED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:17:13-40
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:14:13-84
+intent-filter#action:name:thing.intent.action.nsd+category:name:thing
+ADDED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:18:13-22:29
+action#thing.intent.action.nsd
+ADDED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:19:17-66
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:19:25-63
+category#thing
+ADDED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:21:17-50
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-matterlib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6c34b3471e78de3db04541ce26498bb5/transformed/thingsmart-matterlib-7.8.0/AndroidManifest.xml:21:27-47
+uses-permission#android.permission.NFC
+ADDED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:15:5-62
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-device:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/6f2f240dba6e3b6be964a4b5b1671117/transformed/thingsmart-device-7.8.0/AndroidManifest.xml:15:22-59
+service#com.thingclips.smart.android.common.cdmbluetooth.CdmBleCompanionService
+ADDED from [com.thingclips.smart:thingsmart-baselib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5870c869888a1cc98c8c10f9c9b5f5a7/transformed/thingsmart-baselib-7.8.0/AndroidManifest.xml:8:9-15:19
+	android:exported
+		ADDED from [com.thingclips.smart:thingsmart-baselib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5870c869888a1cc98c8c10f9c9b5f5a7/transformed/thingsmart-baselib-7.8.0/AndroidManifest.xml:10:13-36
+	android:permission
+		ADDED from [com.thingclips.smart:thingsmart-baselib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5870c869888a1cc98c8c10f9c9b5f5a7/transformed/thingsmart-baselib-7.8.0/AndroidManifest.xml:11:13-82
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-baselib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5870c869888a1cc98c8c10f9c9b5f5a7/transformed/thingsmart-baselib-7.8.0/AndroidManifest.xml:9:13-99
+intent-filter#action:name:android.companion.CompanionDeviceService
+ADDED from [com.thingclips.smart:thingsmart-baselib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5870c869888a1cc98c8c10f9c9b5f5a7/transformed/thingsmart-baselib-7.8.0/AndroidManifest.xml:12:13-14:29
+action#android.companion.CompanionDeviceService
+ADDED from [com.thingclips.smart:thingsmart-baselib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5870c869888a1cc98c8c10f9c9b5f5a7/transformed/thingsmart-baselib-7.8.0/AndroidManifest.xml:13:17-83
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-baselib:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/5870c869888a1cc98c8c10f9c9b5f5a7/transformed/thingsmart-baselib-7.8.0/AndroidManifest.xml:13:25-80
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:10:5-86
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:10:22-83
+service#com.thingclips.smart.android.hardware.service.DevTransferService
+ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:15:9-19:43
+	android:process
+		ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:18:13-39
+	android:exported
+		ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:17:13-37
+	android:stopWithTask
+		ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:19:13-40
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:16:13-92
+service#com.thingclips.smart.android.hardware.service.GwBroadcastMonitorService
+ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:20:9-31:19
+	android:process
+		ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:24:13-39
+	android:label
+		ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:23:13-39
+	android:exported
+		ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:22:13-37
+	android:stopWithTask
+		ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:25:13-40
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:21:13-99
+intent-filter#action:name:thing.intent.action.udp+category:name:thing
+ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:26:13-30:29
+action#thing.intent.action.udp
+ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:27:17-66
+	android:name
+		ADDED from [com.thingclips.smart:thingsmart-hardware:7.8.0] /Users/fire/.gradle/caches/8.9/transforms/e7cdfa2a2155d676b70810f3db7b2e00/transformed/thingsmart-hardware-7.8.0/AndroidManifest.xml:27:25-63
+meta-data#com.facebook.soloader.enabled
+ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/fire/.gradle/caches/8.9/transforms/42ade0a69b7dcfb57666c875070140ce/transformed/soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/fire/.gradle/caches/8.9/transforms/42ade0a69b7dcfb57666c875070140ce/transformed/soloader-0.10.5/AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/fire/.gradle/caches/8.9/transforms/42ade0a69b7dcfb57666c875070140ce/transformed/soloader-0.10.5/AndroidManifest.xml:13:13-57
