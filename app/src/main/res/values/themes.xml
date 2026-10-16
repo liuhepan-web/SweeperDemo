@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SweeperDemo" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/sweeper_primary</item>
+        <item name="colorPrimaryVariant">@color/sweeper_header</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/sweeper_accent</item>
+        <item name="colorOnSecondary">@color/sweeper_header</item>
+        <item name="android:statusBarColor">@color/sweeper_header</item>
+        <item name="android:windowBackground">@color/sweeper_bg</item>
+        <item name="colorControlActivated">@color/sweeper_primary</item>
+    </style>
+</resources>
